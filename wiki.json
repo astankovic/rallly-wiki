@@ -1,0 +1,24 @@
+{
+  "org": "lukevella",
+  "repo": "rallly",
+  "source": "github",
+  "sourcePath": "lukevella/rallly",
+  "docType": "functional",
+  "commitHash": "352e8a13a7282b4e8eece84d4f53cab6b1213f33",
+  "branch": "main",
+  "languages": [
+    {
+      "name": "TypeScript",
+      "percentage": 99,
+      "fileCount": 681
+    },
+    {
+      "name": "JavaScript",
+      "percentage": 1,
+      "fileCount": 7
+    }
+  ],
+  "fileCount": 1172,
+  "createdAt": "1771874735",
+  "updatedAt": "1771874948"
+}
